@@ -1,0 +1,15 @@
+{
+  "name": "picubes_frontend",
+  "private":true,
+  "version": "0.0.0",
+  "description": "Picubes frontend directory",
+  "main": "index.js",
+  "devDependencies": {
+    "bower": "^1.7.7"
+  },
+  "scripts": {
+    "start": "python -m SimpleHTTPServer 9000"
+  },
+  "author": "hirendra",
+  "license": "BSD-2-Clause"
+}
